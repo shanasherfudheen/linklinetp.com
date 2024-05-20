@@ -350,7 +350,7 @@ body {
 }
 
 .banner-top1 {
-    background: url(../images/bg-1.jpg) no-repeat center;
+    background: url(../images/img1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -756,14 +756,9 @@ a.agile_twitter:hover {
     border-color: #1da1f2;
 }
 
-a.w3_agile_dribble:hover {
-    background: #ea4c89;
-    border-color: #ea4c89;
-}
-
-a.w3_agile_google:hover {
-    background: #F44336;
-    border-color: #F44336;
+a.agile_whatsapp:hover {
+    background: #0d683f;
+    border-color: #0f6715;
 }
 
 /*-- //social-icons --*/
@@ -1077,7 +1072,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 640px;
+        min-height: 963px;
     }
     .name {
         font-size: 54px;
@@ -1140,7 +1135,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 580px;
+        min-height: 900px;
     }
     .banner-info {
         padding-top: 12em;
@@ -1196,7 +1191,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 530px;
+        min-height: 915px;
     }
     .name {
         font-size: 40px;
@@ -1236,7 +1231,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 500px;
+        min-height: 722px;
     }
     .name {
         font-size: 35px;
@@ -1296,7 +1291,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 440px;
+        min-height: 595px;
     }
 }
 
@@ -1305,7 +1300,7 @@ p.copyright-w3ls a:hover {
     .banner-top2,
     .banner-top3,
     .banner-top4 {
-        min-height: 450px;
+        min-height: 650px;
     }
     .carousel-inner {
         box-shadow: -29px 29px 6px -6px rgba(16, 16, 16, 0.08);
