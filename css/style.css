@@ -216,6 +216,7 @@ span.name-part.w3l-text3 label {
         color: white;
         transform: rotate(50deg);
     }
+
     100% {
         color: #ff5252;
         transform: rotate(0deg);
@@ -350,7 +351,7 @@ body {
 }
 
 .banner-top1 {
-    background: url(../images/bg-1.jpg) no-repeat center;
+    background: url(../images/bg1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -1035,15 +1036,18 @@ p.copyright-w3ls a:hover {
     .menu-agile {
         padding: 0;
     }
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 740px;
     }
+
     .banner-info {
         padding-top: 17em;
     }
+
     #menu {
         width: 100%;
     }
@@ -1053,6 +1057,7 @@ p.copyright-w3ls a:hover {
     .name {
         font-size: 42px;
     }
+
     #menu:after {
         left: 93px;
     }
@@ -1062,42 +1067,53 @@ p.copyright-w3ls a:hover {
     .banner-info {
         padding-top: 16em;
     }
+
     #menu:after {
         left: 88px;
     }
 }
 
 @media(max-width: 1080px) {
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 963px;
     }
+
     .name {
         font-size: 54px;
     }
+
     .banner-info {
         padding-top: 15em;
     }
+
     h4.about-left-agile {
         font-size: 22px;
     }
+
     p {
         font-size: 14px;
     }
+
     h3.title {
         font-size: 44px;
     }
+
     .caption {
         width: 87.5%;
     }
+
     .team-grid:hover .caption {
         top: 35%;
     }
+
     .test-review {
         margin: 1em;
     }
+
     #menu:after {
         left: 108px;
     }
@@ -1107,6 +1123,7 @@ p.copyright-w3ls a:hover {
     .bottom-w3ls1:hover.bottom-w3ls1 i {
         left: -11%;
     }
+
     .bottom-w3ls1 i {
         font-size: 54px;
         top: -23%;
@@ -1118,10 +1135,12 @@ p.copyright-w3ls a:hover {
     .bottom-w3ls1:hover.bottom-w3ls1 i {
         left: -8%;
     }
+
     .img_text_w3ls h4 {
         font-size: 26px;
         letter-spacing: 1px;
     }
+
     #menu:after {
         left: 102px;
     }
@@ -1131,50 +1150,63 @@ p.copyright-w3ls a:hover {
     .name {
         font-size: 47px;
     }
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 900px;
     }
+
     .banner-info {
         padding-top: 12em;
     }
+
     .aboutleft {
         margin-top: 6em;
     }
+
     .img_text_w3ls h4 {
         font-size: 22px;
     }
+
     .img_text_w3ls span {
         margin: 1em 0 0.5em;
     }
+
     .img_text_w3ls p {
         font-size: 13px;
     }
+
     .img-grid {
         min-height: 316px;
     }
+
     .team-text h4 {
         font-size: 18px;
         padding: 10px 0;
     }
+
     .caption {
         width: 83.5%;
     }
+
     .caption ul li a i {
         width: 30px;
         height: 30px;
         font-size: 14px;
         line-height: 2.2;
     }
+
     .test-review {
         padding: 2em 1em;
         margin: 0 1em;
     }
+
     .contact .d-flex {
         display: inherit !important;
     }
+
     #menu:after {
         left: 105px;
     }
@@ -1187,24 +1219,30 @@ p.copyright-w3ls a:hover {
 }
 
 @media(max-width: 800px) {
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 915px;
     }
+
     .name {
         font-size: 40px;
     }
+
     .posi-w3ls-bottom {
         padding-left: 3em;
     }
+
     .contact textarea {
         height: 12em;
     }
+
     h3.title {
         font-size: 38px;
     }
+
     #menu:after {
         left: 83px;
     }
@@ -1215,46 +1253,58 @@ p.copyright-w3ls a:hover {
         font-size: 14px;
         margin-bottom: 3px;
     }
+
     .test-review {
         margin: 0 0 0 1em;
     }
+
     .test-review.test-tooltip1 h6 {
         font-size: 23px;
     }
+
     #menu:after {
         left: 78px;
     }
 }
 
 @media(max-width: 736px) {
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 722px;
     }
+
     .name {
         font-size: 35px;
     }
+
     .team-grid {
         padding: 0 .4em;
     }
+
     .team-grid:hover .caption {
         top: 27%;
     }
+
     .caption {
         width: 82.5%;
     }
+
     .test-review {
         padding: 2em;
         margin: 3em 0 0;
     }
+
     #menu:after {
         left: 101px;
     }
+
     .banner-info {
         padding-top: 11em;
     }
+
     .caption {
         width: 87%;
         left: 11px;
@@ -1265,14 +1315,17 @@ p.copyright-w3ls a:hover {
     .bottom-w3ls1 h4 {
         font-size: 21px;
     }
+
     .bottom-w3ls1 i {
         font-size: 50px;
         top: -18%;
         left: -5%;
     }
+
     .bottom-w3ls1:hover.bottom-w3ls1 i {
         left: -10%;
     }
+
     #menu:after {
         left: 87px;
     }
@@ -1284,9 +1337,11 @@ p.copyright-w3ls a:hover {
     .name {
         font-size: 30px;
     }
+
     #menu:after {
         left: 80px;
     }
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
@@ -1296,43 +1351,54 @@ p.copyright-w3ls a:hover {
 }
 
 @media(max-width: 568px) {
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 650px;
     }
+
     .carousel-inner {
         box-shadow: -29px 29px 6px -6px rgba(16, 16, 16, 0.08);
         margin-left: 1em;
     }
+
     h3.title {
         font-size: 40px;
     }
+
     .posi-w3ls-bottom {
         padding-left: 4em;
     }
+
     .agileits_w3layouts_gallery_grid1 {
         padding: 0 1em;
     }
+
     .team-grid {
         padding: 0 1em;
         text-align: center;
     }
+
     .caption {
         width: 62%;
         left: 105px;
     }
+
     .team-grid:hover .caption {
         top: 38%;
     }
+
     .logo a,
     .logo2 a {
         font-size: 28px;
     }
+
     #menu:after {
         left: 115px;
     }
+
     .contact-right,
     .contact-left {
         padding: 0;
@@ -1343,32 +1409,41 @@ p.copyright-w3ls a:hover {
     .name {
         font-size: 27px;
     }
+
     .img-grid {
         min-height: 300px;
     }
+
     .img_text_w3ls {
         padding: 0 !important;
     }
+
     .caption {
         width: 73.5%;
         left: 61px;
     }
+
     .w3ls-agile-video iframe {
         height: 244px;
     }
+
     .logo a,
     .logo2 a {
         font-size: 26px;
     }
+
     .row.header-w3ls-top {
         padding: 10px 3px 0 !important;
     }
+
     #menu:after {
         left: 103px;
     }
+
     #toggle {
         margin-top: 22px;
     }
+
     h3.title {
         font-size: 32px;
     }
@@ -1378,35 +1453,44 @@ p.copyright-w3ls a:hover {
     .banner-info {
         padding-top: 10.5em;
     }
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 430px;
     }
+
     .caption {
         width: 80.5%;
         left: 41px;
     }
+
     .w3ls-agile-video iframe {
         height: 205px;
     }
+
     .logo a,
     .logo2 a {
         font-size: 25px;
     }
+
     .logo {
         padding-right: 0;
     }
+
     #menu:after {
         left: 92px;
     }
+
     .contact textarea {
         height: 10em;
     }
+
     .contact input[type="submit"] {
         padding: 10px 40px;
     }
+
     p.copyright-w3ls {
         letter-spacing: 1px;
     }
@@ -1416,33 +1500,41 @@ p.copyright-w3ls a:hover {
     h3.title {
         font-size: 30px;
     }
+
     h3.title span {
         max-width: 60px;
     }
+
     .caption {
         width: 86%;
         left: 28px;
     }
+
     #menu:after {
         left: 89px;
     }
+
     .logo a {
         font-size: 24px;
     }
+
     .banner-info {
         padding-top: 9em;
     }
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 390px;
     }
+
     .agileits_social_list li a {
         width: 32px;
         height: 32px;
         line-height: 2;
     }
+
     .w3l-agile {
         padding: 2em 1.5em;
     }
@@ -1452,41 +1544,53 @@ p.copyright-w3ls a:hover {
     .logo a {
         font-size: 21px;
     }
+
     #menu:after {
         left: 78px;
     }
+
     .name {
         font-size: 27px;
     }
+
     .posi-w3ls-bottom {
         padding-left: 2.5em;
     }
+
     .img-grid {
         min-height: 280px;
     }
+
     button.seri-w3ls {
         font-size: 13px;
     }
+
     .caption {
         width: 88.5%;
         left: 21px;
     }
+
     .w3ls-agile-video iframe {
         height: 184px;
     }
+
     .contact textarea {
         height: 10em;
     }
+
     .contact input[type="submit"] {
         padding: 11px 50px;
         font-size: 15px;
     }
+
     .map-w3ls iframe {
         height: 200px;
     }
+
     .contact-left h4 {
         font-size: 16px;
     }
+
     p {
         font-size: 13px;
     }
@@ -1498,76 +1602,97 @@ p.copyright-w3ls a:hover {
     .logo a {
         font-size: 19px;
     }
+
     .logo {
         padding-left: 3px;
     }
+
     .header-w3ls-top {
         padding: 10px !important;
     }
+
     .menustyles li a {
         font-size: 12px;
         padding: 4px;
     }
+
     #menu:after {
         left: 62px;
     }
+
     .name {
         font-size: 20px;
     }
+
     .banner-top1,
     .banner-top2,
     .banner-top3,
     .banner-top4 {
         min-height: 340px;
     }
+
     .banner-info {
         padding-top: 8em;
     }
+
     h4.about-left-agile {
         font-size: 20px;
     }
+
     p {
         font-size: 13px;
     }
+
     .bottom-w3ls1 h4 {
         font-size: 18px;
     }
+
     .bottom-w3ls1 i {
         font-size: 43px;
         top: -13%;
         left: -7%;
     }
+
     .bottom-w3ls1 h4 {
         width: 220px;
     }
+
     .bottom-w3ls1:hover.bottom-w3ls1 h4 {
         width: 240px;
     }
+
     .posi-w3ls-bottom {
         padding-left: 2em;
     }
+
     .bottom-w3ls1:hover.bottom-w3ls1 i {
         left: -11%;
     }
+
     .img_text_w3ls h4 {
         font-size: 17px;
     }
+
     .img_text_w3ls p {
         font-size: 12px;
     }
+
     .caption {
         width: 86%;
         left: 21px;
     }
+
     .w3ls-agile-video iframe {
         height: 155px
     }
+
     .contact input[type="text"],
     .contact input[type="email"],
     .contact textarea {
         padding: 10px;
         font-size: 14px;
     }
+
     .contact textarea {
         height: 8em;
     }
@@ -1578,18 +1703,173 @@ p.copyright-w3ls a:hover {
     height: 100px;
     display: inline-block;
     animation: pulse 2s infinite;
-  }
-  
-  @keyframes pulse {
+}
+
+.serv {
+    animation: pulse 2s infinite;
+}
+@keyframes pulse {
     0% {
-      transform: scale(1);
+        transform: scale(1);
     }
+
     50% {
-      transform: scale(1.1);
+        transform: scale(1.1);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes slideInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.title {
+    animation: slideInLeft 3s ease-out;
+    animation-iteration-count: infinite;
+}
+
+/* @keyframes slideInRight {
+    from {
+      opacity: 0;
+      transform: translateX(-100%);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  .about {
+    animation: slideInRight 5s ease-out;
+  } */
+
+@keyframes glow {
+    50% {
+        box-shadow: 0 0 40px hsl(78, 67%, 59%);
+    }
+}
+
+.goal {
+    animation: glow 1.5s ease-out;
+    animation-iteration-count: infinite;
+}
+
+@keyframes loop {
+    0% {
+      transform: translateX(0);
     }
     100% {
-      transform: scale(1);
+      transform: translateX(-50%);
     }
+  }
+
+.read {
+   animation: loop 2s ease-out;
+   animation-iteration-count: infinite;
+  }
+
+  @keyframes cinematic-camera {
+    from {
+      perspective-origin: 60% 40%;
+    }
+    to {
+      perspective-origin: 40% 60%;
+    }
+    /* 
+      Move the fading to the containing element as to not break inside 3D transforms. 
+      See: https://css-tricks.com/things-watch-working-css-3d/
+    */
+    from,
+    to {
+      opacity: 0;
+    }
+    25%,
+    75% {
+      opacity: 1;
+    }
+  }
+
+  &:after {
+    content: "";
+    background: linear-gradient(to bottom, #82b5cf, #be212100 20%, #00000000 80%, #000);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+  }
+
+  .paras {
+    animation: cinematic-camera 2s cubic-bezier(0.6, 0, 0.4, 1) both infinite;
+  }
+
+  @keyframes jump {
+    0% {
+      transform: scale(1);
+      box-shadow: 0 1px 2px rgba(0,0,0,.15);
+    }
+    100% {
+      transform: scale(1.05);
+      box-shadow: 0 4px 20px rgba(0,0,0,.1);
+    }
+  }
+
+  .send {
+    animation: .4s jump ease infinite alternate;
+  }
+
+  @keyframes wiggle {
+    0% {
+      transform: rotate(-3deg);
+      box-shadow: 0 2px 2px rgba(0,0,0,.2);
+    }
+    20% {
+      transform: rotate(20deg);
+    }
+    40% {
+      transform: rotate(-15deg);
+    }
+    60% {
+      transform: rotate(5deg);
+    }
+    90% {
+      transform: rotate(-1deg);
+    }
+    100% {
+      transform: rotate(0);
+      box-shadow: 0 2px 2px rgba(0,0,0,.2);
+    }
+  }
+
+  .subheading {
+    animation: 1s wiggle ease infinite;
+  }
+
+  @keyframes blink {
+    0% {
+      opacity: 1;
+    }
+    20% {
+      opacity: .5;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  #read {
+    animation: blink 1.5s ease-out infinite;
   }
 
 /*--//responsive--*/
